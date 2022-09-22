@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Homework#2C#\bin\Debug\net6.0\Homework#2C#.exe
+C:\Users\Alexey\Desktop\Homework#2C#\bin\Debug\net6.0\Homework#2C#.deps.json
+C:\Users\Alexey\Desktop\Homework#2C#\bin\Debug\net6.0\Homework#2C#.runtimeconfig.json
+C:\Users\Alexey\Desktop\Homework#2C#\bin\Debug\net6.0\Homework#2C#.dll
+C:\Users\Alexey\Desktop\Homework#2C#\bin\Debug\net6.0\Homework#2C#.pdb
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.dll
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\refint\Homework#2C#.dll
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.pdb
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\Homework#2C#.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Homework#2C#\obj\Debug\net6.0\ref\Homework#2C#.dll
